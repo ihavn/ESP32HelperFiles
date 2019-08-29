@@ -1,0 +1,1 @@
+openocd -f %IDF_TOOLS_PATH%\tools\ninja\openocd-esp32\v0.10.0-esp32-20190313\openocd-esp32\share\openocd\scripts\interface\ftdi\esp32_devkitj_v1.cfg -f %IDF_TOOLS_PATH%\tools\ninja\openocd-esp32\v0.10.0-esp32-20190313\openocd-esp32\share\openocd\scripts\board\esp-wroom-32.cfg
